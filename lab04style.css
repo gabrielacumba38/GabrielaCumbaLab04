@@ -31,3 +31,6 @@ h6{text-decoration-line: underline}
 .boldtext{
     font-weight: bold;
 }
+.intro{
+    font-weight: 300;
+}
